@@ -11,8 +11,7 @@
 ---
 
 ### 🛠️ Tools & Technologies:
-<img src="https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white" />
