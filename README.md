@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sugam Mainali</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🌱 I’m currently learning **OOP IN JAVA, Python, HTML, CSS,JAVASCRIPT**
 
