@@ -1,24 +1,3 @@
-````markdown
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Sugam%20Mainali&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<h3>💻 Developer &nbsp;•&nbsp; 🎨 Designer &nbsp;•&nbsp; 🚀 Lifelong Learner</h3>
-
-<p>
-  <i>Building things. Designing experiences. Learning every day.</i>
-</p>
-
-<p>
-  <a href="mailto:sugammainali5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sugammainali5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 Hi! I'm **Sugam Mainali**, a developer and designer who enjoys turning ideas
